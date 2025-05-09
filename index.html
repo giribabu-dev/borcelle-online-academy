@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Borcelle Online Academy</title>
+
+    <!-- External CSS File -->
+    <link rel="stylesheet" href="./style.css" />
+
+    <!-- Google Fonts CDN Links -->
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap"
+        rel="stylesheet" />
+
+    <!-- Font Awesome CDN Link-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+</head>
+
+<body>
+    <!-- Header Section -->
+    <section class="header">
+        <nav>
+            <a href="./index.html">
+                <img src="./images/logo2.png" alt="borcelle online academy logo" />
+            </a>
+            <div class="nav-links" id="navLinks">
+                <i class="fa fa-times" onclick="hideMenu()"></i>
+                <ul>
+                    <li><a href="./index.html">HOME</a></li>
+                    <li><a href="./about/about.html">ABOUT</a></li>
+                    <li><a href="./course/course.html">COURSE</a></li>
+                    <li><a href="./blog/blog.html">BLOG</a></li>
+                    <li><a href="./contact/contact.html">CONTACT</a></li>
+                </ul>
+            </div>
+            <i class="fa fa-bars" onclick="showMenu()"></i>
+        </nav>
+        <div class="text-box">
+            <h1>Welcome To Borcelle Online Academy</h1>
+            <p>
+                Empowering students through world-class education and global learning experiences. <br />
+                Explore your future with innovative programs in science, technology, business, and the arts.
+            </p>
+            <a href="./about/about.html" class="hero-btn">Discover More</a>
+        </div>
+    </section>
+
+    <!-- Course Section -->
+    <section class="course">
+        <h1>Courses We Offer</h1>
+        <p>Choose from a diverse range of programs designed to help you succeed in your academic and professional journey.</p>
+
+        <div class="row">
+            <div class="course-col">
+                <h3>Intermediate Programs</h3>
+                <p>
+                    Our foundation courses provide students with the essential knowledge and skills to transition into
+                    specialized fields of study.
+                </p>
+            </div>
+            <div class="course-col">
+                <h3>Undergraduate Degrees</h3>
+                <p>
+                    Pursue Bachelor's degrees in Computer Science, Business Administration, Biotechnology, and more,
+                    designed to equip you with real-world skills.
+                </p>
+            </div>
+            <div class="course-col">
+                <h3>Postgraduate Degrees</h3>
+                <p>
+                    Advance your career with Master's programs in Data Science, Finance, Management, Engineering, and global
+                    research opportunities.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Campus Section -->
+    <section class="campus">
+        <h1>Our Global Campuses</h1>
+        <p>Experience cultural diversity and global standards at our international campuses.</p>
+
+        <div class="row">
+            <div class="campus-col">
+                <img src="./images/london.png" alt="London Campus" />
+                <div class="layer">
+                    <h3>LONDON</h3>
+                </div>
+            </div>
+            <div class="campus-col">
+                <img src="./images/newyork.png" alt="New York Campus" />
+                <div class="layer">
+                    <h3>NEW YORK</h3>
+                </div>
+            </div>
+            <div class="campus-col">
+                <img src="./images/washington.png" alt="Washington Campus" />
+                <div class="layer">
+                    <h3>WASHINGTON</h3>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Facilities Section -->
+    <section class="facilities">
+        <h1>Our Facilities</h1>
+        <p>We provide world-class infrastructure and resources to support student success and well-being.</p>
+
+        <div class="row">
+            <div class="facilities-col">
+                <img src="./images/library.png" alt="Library" />
+                <h3>World-Class Library</h3>
+                <p>Access a vast collection of digital and print resources, study spaces, and research assistance in our modern libraries.</p>
+            </div>
+            <div class="facilities-col">
+                <img src="./images/basketball.png" alt="Playground" />
+                <h3>Sports & Recreation</h3>
+                <p>From basketball courts to fitness centers, we promote health and wellness with comprehensive athletic facilities.</p>
+            </div>
+            <div class="facilities-col">
+                <img src="./images/cafeteria.png" alt="Cafeteria" />
+                <h3>Cafeterias & Dining</h3>
+                <p>Enjoy nutritious and delicious meals in our vibrant, hygienic dining halls with multiple international cuisines.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonial Section -->
+    <section class="testimonial">
+        <h1>What Our Students Say</h1>
+        <p>Hear from students around the world about their journey at Global Vision University.</p>
+
+        <div class="row">
+            <div class="testimonial-col">
+                <img src="./images/user1.jpg" alt="Student 1" />
+                <div>
+                    <p>
+                        Global Vision University gave me the skills and confidence to pursue my dream career in software engineering. 
+                        The faculty support is incredible!
+                    </p>
+                    <h3>Christine Berley</h3>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+            </div>
+            <div class="testimonial-col">
+                <img src="./images/user2.jpg" alt="Student 2" />
+                <div>
+                    <p>
+                        The campus life, extracurricular activities, and real-world exposure made my education both fun and meaningful. 
+                        Highly recommended!
+                    </p>
+                    <h3>David Byer</h3>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Call To Action Section -->
+    <section class="cta">
+        <h1>Enroll Now For Online & On-Campus Programs<br /> From Anywhere in the World</h1>
+        <a href="./contact/contact.html" class="hero-btn">Contact Us</a>
+    </section>
+
+    <!-- Footer Section -->
+    <section class="footer">
+        <h4>About Us</h4>
+        <p>
+            Borcelle Online Academy is dedicated to shaping the leaders of tomorrow through academic excellence, innovation, and a commitment 
+            to global progress.
+        </p>
+        <div class="icons">
+            <i class="fa fa-facebook"></i>
+            <i class="fa fa-twitter"></i>
+            <i class="fa fa-instagram"></i>
+            <i class="fa fa-linkedin"></i>
+        </div>
+        <p>Made with <i class="fa fa-heart-o"></i> by Giri Skill Hub</p>
+    </section>
+
+    <script src="./script.js"></script>
+</body>
+
+</html>
