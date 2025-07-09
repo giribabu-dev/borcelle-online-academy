@@ -4,19 +4,19 @@ This project demonstrates a complete static frontend for an online learning plat
 
 ## 📁 Project Structure
 
-borcelle-online-academy/
-│
-├── about/
-│ └── about.html
-├── blog/
-│ └── blog.html
-├── contact/
-│ └── contact.html
-├── course/
-│ └── course.html
-│
-├── images/
-│ └── [All images used in the site]
-├── style.css
-├── script.js
+borcelle-online-academy/ <br />
+│ <br />
+├── about/ <br />
+│ └── about.html <br />
+├── blog/ <br />
+│ └── blog.html <br />
+├── contact/ <br />
+│ └── contact.html <br />
+├── course/ <br />
+│ └── course.html <br />
+│ <br />
+├── images/ <br />
+│ └── [All images used in the site] <br />
+├── style.css <br />
+├── script.js <br />
 └── index.html
