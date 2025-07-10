@@ -38,3 +38,12 @@ borcelle-online-academy/ <br />
 - ✅ Comment form on the blog page
 
 ## 🛠️ Technologies Used
+- **HTML5:** Markup language used to structure the site
+- **CSS3:** Styling and layout
+- **Google Fonts:** Custom typography
+- **Font Awesome:** Icons throughout the project
+- **JavaScript:** Navigation toggle functionality
+
+## 📷 Screenshots
+
+## 📥 Installation & Usage
