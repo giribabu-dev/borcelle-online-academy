@@ -50,7 +50,7 @@ borcelle-online-academy/ <br />
 To runs this project locally
 
 1. Clone the repository
-     git clone https://github.com/giribabu-dev/borcelle-online-academy.git
-2. Navigate to the project directory
+     git clone https://github.com/giribabu-dev/borcelle-online-academy.git <br />
+2. Navigate to the project directory <br />
      cd borcelle-online-academy
 3. Open index.html in your browser
