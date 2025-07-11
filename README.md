@@ -14,9 +14,8 @@ borcelle-online-academy/ <br />
 │ └── contact.html <br />
 ├── course/ <br />
 │ └── course.html <br />
-│ <br />
 ├── images/ <br />
-│ └── [All images used in the site] <br />
+│ └── All images in the folder <br />
 ├── style.css <br />
 ├── script.js <br />
 └── index.html
