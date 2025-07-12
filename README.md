@@ -22,19 +22,19 @@ borcelle-online-academy/ <br />
 
 ## 🚀 Features
 
-- ✅ Fully responsive design using CSS Flexbox
-- ✅ Navigation bar with mobile menu toggle (hamburger menu)
-- ✅ Pages:
+-  Fully responsive design using CSS Flexbox
+-  Navigation bar with mobile menu toggle (hamburger menu)
+-  Pages:
   - Home
   - About Us
   - Courses
   - Blog
   - Contact Us
-- ✅ Embedded Google Maps for location
-- ✅ Student testimonials with star ratings
-- ✅ Reusable sections like Header and Footer
-- ✅ Font Awesome icons integration
-- ✅ Comment form on the blog page
+-  Embedded Google Maps for location
+-  Student testimonials with star ratings
+-  Reusable sections like Header and Footer
+-  Font Awesome icons integration
+-  Comment form on the blog page
 
 ## 🛠️ Technologies Used
 - **HTML5:** Markup language used to structure the site
