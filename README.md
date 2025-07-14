@@ -1,5 +1,5 @@
 # 🎓 Borcelle Online Academy
-Welcome to **Borcelle Online Academy**, a modern and fully responsive educational website built using **HTML5**, **CSS3**, **JavaScript** and **Font Awesome**. 
+Welcome to **Borcelle Online Academy**, a modern and fully responsive educational website built using **HTML5**, **CSS3**, **JavaScript** and **Font Awesome**. <br />
 This project demonstrates a complete static frontend for an online learning platform offering courses, global campuses, student testimonials, and more.
 
 ## 📁 Project Structure
